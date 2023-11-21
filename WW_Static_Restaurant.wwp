@@ -1,0 +1,196 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Static_Restaurant
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAAB3PSVWGtcAPwoR0s4QAqTsVF2fgYeHNE4qQjXJGDJ85OGwfHMLblPZAJg+mUs1eUiXUpr9xsw32s5fCMhe1GojwA3vPeA2SIbGOyPemhkiDbdQV0P/JsZNzH1Pii05FlF4jq/z751i9iYXnijbE//jRqtU67pFSR6vVIQg7W3e/JnV8lcL3Ylir6mpvZzLiv3BTuVy3Ku2hSJ9yQBpavXtdRDN6rausJprfA2qDRI+nn3eiABqiHwaq90mQG5PWaCuUO8JLsyQ2BGJHVf5gbkFcVR7TvayQfWtR4zsc7AwA+C622Ue6uXEe6jkxcvogiqTUi9KGqWzmjz61osi8GXEH/YiLfpZjJk2Iz7HqstM5cnLBqT7GDvcveplTftqMQZz3RHr5cS2AQm66V5380M56KrYlZZWaE9ZiZssWudFvz/Z8po7rZMpISuHsXHBGU+74nwjB2u3ZxQT7nxp0Urp4vF/lpw/jkgYMVHfx2p2UEtLR2rv8+h+PUNcct6mUKd2XOjfQ4ymDdwbhdHc/8MOBiWFwM2I12SscUYfcEY923ZWzp5dTF31PjcVfDgYcHeyIxAyl3H+sOp2278euyaVFu5K5fWbbFNLB/JVZVHOgmJAoAVIebhfAvGR6C3n90ULd/lm3lU+q/ud8MSs90Wze8TbE9py/u8hFgD5XUbQ5U+wQ5TwzYj+UTaYMpltkeCMX9pWd4pnDycDsudQnKI35UKMVrkZJ1ACCQMvxOT0jwH1GNALR6YLhFrjR/RNh6niJ+Wk0uoqPi3ywl/hZgpexqsdRjU7468hiLT0OlicvuG7iW5Fmp992ji9RUlXPWVTuPOvk45ZOy8C7zjjqKxKdfV+fpesO+d65TDOIqLW2PfU9O0Hye5FE29N+38I9ashFsNLffD37NbVoCZr9FxpdOe4DeZ2sFQy7PcGKnZVZEM6MnzEcJa6PxpYz+UktLpfCgFTSt2UU7uTugUOxhyHuYLToSg7swye7NXn/CBbfTxKCbzDWGvfKsNVVOpFGQPN3vUb1U1qS4FXHWu1bxvMwpeI+dDeLMlzwB9JMyegNgIa34J9u0RJNPUCWKjfOw+/Yv6llvEmWji1p0gBVyKdnYaOvwq61Y9a05kX2ZDunByjVFyAKpPWsDbSbnvpg5C8+qDKSNlju2+viV0kfGexvVMaZl842BtdtTBp4/XadWTJJizHQ1oAhBaWL4wRysFGeC6WklE+v4TvhSArLliGd+A8UsDuKHtl/SHxgAFvSjWcDdgtvt5HZL+a97SjiI3Donqtqx4mvc8idTLuGe0N7ba1x7Glmf5X396k5YvwXY3BXhsKkKzCBW1ItbdRFsAOMY9R/yoMj4pu3PvwT7CKlCDxDIaQO6RY5qjW2YaWZurZcQsbiwG1tG3EFjcW1hZPJHSWK0jcHH0XOh4gEoMSRdxVwVxoRuGuUnOD5fZvRkqwmSL2DXj1D8dpJ0yfJ+zuMHSIooOJt1y4JAsnF68eh5Z+R+UtQIelXcAgg298gpG/5z0pJBqOhvCA0jwQjOffFsjekiwlYkMCItzqZV3dpt9T08pomL0jCs17U415I4mE5SqlQyfTKnMJ3iKucjL8uMuBCKzr5OCZpcOme7bZdvx1LvTIpWRYasVGaW6uTGH7poPcBJsb1By6lFEmuaynUJZLGFU6uVjW/2VBuMYQ7AT8RLVCyqy9+5j5AG5jaYJkGpc1Aw2bM0sdijjtvc7blxlN+sTWybsQN+OG3Uu4lD3l7USD5PP4OkBVCytfOPLCTRU73WuuDwZ7hiixyVTPOQbJzdD3NE+4wVaAbQqnh0a6YKOG1GK1lMFvZ/KaXwPRYfqVxJrJ7xmogN2hsuWrXO0et5iuLhoGelalQbTvhR6WgdGtpwnVbQBqSiyos2U/vLEs3f1aFkXH7hitIcspdEcsQAEneK5lVkGT7rhAqlXVRBT6/u/Vis70YA==
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 10385430074475305358
+    type : 2
+    generation_name : WW_Static_Restaurant.wdl
+    version : {}
+    index_page_generation_name : subscript
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x425e537f0002d5b7
+  elements :
+   -
+     name : subscript
+     identifier : 0x42824075002709a7
+     internal_properties : CAAAAAgAAAA/KmGkptZPs0Bg0f1N9EGEj1Xyc6Xh+hvWVWPy/BdBJmmnxi4r1URQucaFXcMCkNbT4BH4ArsYO0j3Y4/vFSAvzNkwww==
+     physical_name : .\subscript.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : Model
+     identifier : 0x427d07df00f12063
+     internal_properties : CAAAAAgAAAAyCGq+jfqy7cCrUdmDb7OEMG1vB6jQZeq2WUPLFQ0HGe/jnIRsnNMEkY13QcE/O60XHw==
+     physical_name : .\Model.wwt
+     type : 65541
+   -
+     name : the chief
+     identifier : 0x4282490101526c31
+     internal_properties : CAAAAAgAAADUlzf2NYlT2KY6F2BwyIjz8lUhJg/ChOHEkkqhNpHWuq2FHO4hd6qo47AVumznO9DmZrySfBPMxYqoTkPrdGugxsgKdI4=
+     physical_name : .\the chief.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : access and contact
+     identifier : 0x42823e6f0025216b
+     internal_properties : CAAAAAgAAAAWBc33JlftaBQSLL00r0KVYWXcF/pE+QGywiaY8sIMFicH49gArqPZxDUhNt1SUs5n+hbZkKiADhJFyZWkfiL9phYU
+     physical_name : .\access and contact.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : starters
+     identifier : 0x428248d80150cd34
+     internal_properties : CAAAAAgAAAC9pMf6BHStEfbuo4sXUp8qbbe4sWuvONkMbPuYKRakNAepL3MWaBXRCp9LlwXAUhSRJu+abBFylZaF8TlRs4KNqj+uRQ==
+     physical_name : .\starters.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : dishes
+     identifier : 0x428249610156e334
+     internal_properties : CAAAAAgAAABt1JcqFGS9Yeb+Mxvngq/a3ScIIfsfyGl8i0GTFvF7xkn3ToZDqzgu1wzbB7Uw4qQBll8q3OFC5SYVASlBo5KdWm9eFQ==
+     physical_name : .\dishes.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : desserts
+     identifier : 0x4282479a014ef1e4
+     internal_properties : CAAAAAgAAABszx+hiIGHYrwLdX6spYCJ81HzgFdx3aAEC//GoMOMVIJ2oznbBOr0l+FFsSj41U7yhVtW2d2RvvVR0wPCUNAveGDu
+     physical_name : .\Desserts.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : menus
+     identifier : 0x4282493901544502
+     internal_properties : CAAAAAgAAAD2cTjdba1wdImbDlY2cf4JAtBZ0IQA20R38lCGjPV2ihlXsDiRnNtXjH0m/KIj8bUwRY57jTCTtPEgHNY23tlmhRL5ig==
+     physical_name : .\Menus.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 170 Villoza
+ wb_color_palette : Palabra & Light
+ site_type : 2
+ languages :
+  - en-GB
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : access and contact
+     parameters : []
+     title :
+      fr-FR : Accès et contact
+      en-GB : Access and contact
+     description :
+      fr-FR : Accès et contact
+      en-GB : Access and contact
+   -
+     name : desserts
+     parameters : []
+     title :
+      fr-FR : Desserts
+      en-GB : Desserts
+     description :
+      fr-FR : Desserts
+      en-GB : Desserts
+   -
+     name : dishes
+     parameters : []
+     title :
+      fr-FR : Plats
+      en-GB : Dishes
+     description :
+      fr-FR : Plats
+      en-GB : Dishes
+   -
+     name : menus
+     parameters : []
+     title :
+      fr-FR : Menus
+      en-GB : Menus
+     description :
+      fr-FR : Menus
+      en-GB : Menus
+   -
+     name : starters
+     parameters : []
+     title :
+      fr-FR : Entrées
+      en-GB : Entries
+     description :
+      fr-FR : Entrées
+      en-GB : Entries
+   -
+     name : subscript
+     parameters : []
+     title :
+      fr-FR : Accueil
+      en-GB : Home
+     description :
+      fr-FR : Accueil
+      en-GB : Home
+   -
+     name : the chief
+     parameters : []
+     title :
+      fr-FR : Le Chef
+      en-GB : The Chief
+     description :
+      fr-FR : Le Chef
+      en-GB : The Chief
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAACM+sPU4ydscwdijHDzQwdZv+bbgq9bxntiPDZYY5TuQYaJRx5dU7PWRu+hWWAk6aCflG0svrppuVLDTCr9zzKRbY1/dA==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x425e537f0003d624
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Statique_Restaurant
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
